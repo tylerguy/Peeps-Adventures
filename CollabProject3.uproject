@@ -6,11 +6,11 @@
 	"Plugins": [
 		{
 			"Name": "Takes",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "PanoramicCapture",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
